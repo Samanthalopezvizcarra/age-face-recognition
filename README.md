@@ -52,13 +52,6 @@ Se utiliza una arquitectura **ResNet50 preentrenada** como backbone y un modelo 
 
 ---
 
-## 📊 Resultados
-- El modelo aprende correctamente la edad real de las personas  
-- MAE (Mean Absolute Error) utilizado para evaluar desempeño  
-- Data augmentation ayuda a mejorar generalización y robustez  
-
----
-
 ## 🧰 Tecnologías utilizadas
 - Python  
 - pandas · numpy · matplotlib · seaborn  
